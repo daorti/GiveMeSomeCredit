@@ -1,7 +1,7 @@
 # GiveMeSomeCredit Kaggle Competition
 
 ## Authors
-Ana Alba Cruz \n
+Ana Alba Cruz <br />
 Daniel Ortiz López
 
 
